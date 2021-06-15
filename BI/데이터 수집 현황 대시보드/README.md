@@ -13,5 +13,5 @@
 - [분석 쿼리](https://github.com/juunho/Suwon-2021/blob/71a1944e39476d04921f5131eef29e80a599946b/BI/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%ED%98%84%ED%99%A9%20%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C/%EB%B6%84%EC%84%9D%20%EC%BF%BC%EB%A6%AC.sql)
 
 ### 분석 보고서
- - [URL](http://27.101.101.188:20007/studio/exported/01ad281db38f4a4ea4043c6af235f0020fcac5bfeaf74c14ae2df288ae867d61)
-- [매뉴얼](https://github.com/mobigen/DX1-DevOps/files/6636745/_._._._.pdf)
+ - [보고서 URL](http://27.101.101.188:20007/studio/exported/01ad281db38f4a4ea4043c6af235f0020fcac5bfeaf74c14ae2df288ae867d61)
+- [매뉴얼](https://github.com/juunho/Suwon-2021/blob/f43d241387da0d2e4c9c0151053101675b7db19a/BI/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%ED%98%84%ED%99%A9%20%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%ED%98%84%ED%99%A9%20%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C%20%EB%A7%A4%EB%89%B4%EC%96%BC.pdf)
