@@ -1,0 +1,169 @@
+경제총조사 추진 상황
+
+## 전국, 경기도, 수원시 진행률 ##
+# common_data 1
+| TOP 1 -REFERENCEDATE
+| CONCAT REFERENCEDATE, "" as DATE
+| FIELDS DATE
+
+# common_data 2
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE 
+| where ADMINISTRATION_ZONE_NAME = '수원시' 
+| fields  EXAMINATION_TARGET_BUSINESS_COUNT
+
+# common_data 3
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE 
+| numbering
+| where ID = 1 
+| fields EXAMINATION_PROGRESS_RATE
+
+# common_data 4
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE 
+| where ADMINISTRATION_ZONE like '1_' or ADMINISTRATION_ZONE like  '2_' or ADMINISTRATION_ZONE like  '3_'  
+| stats sum(EXAMINATION_COMPLETION_BUSINESS_ACCUMULATE_TOTAL)  as SUM
+
+# common_data 5
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE 
+| where ADMINISTRATION_ZONE like '1_' or ADMINISTRATION_ZONE like  '2_' or ADMINISTRATION_ZONE like  '3_'  
+| stats sum(TODAY_EXAMINATION)  as SUM
+
+# common_data 6
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE 
+| where ADMINISTRATION_ZONE = '31'
+| fields EXAMINATION_PROGRESS_RATE
+
+# common_data 7
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE 
+| where ADMINISTRATION_ZONE like '310_' or ADMINISTRATION_ZONE like '310_0'  or ADMINISTRATION_ZONE like '311%' or ADMINISTRATION_ZONE like '312%' or ADMINISTRATION_ZONE like '313%' 
+| stats sum(EXAMINATION_COMPLETION_BUSINESS_ACCUMULATE_TOTAL)  as SUM
+
+# common_data 8
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE 
+| where ADMINISTRATION_ZONE like '310_' or ADMINISTRATION_ZONE like '310_0'  or ADMINISTRATION_ZONE like '311%' or ADMINISTRATION_ZONE like '312%' or ADMINISTRATION_ZONE like '313%' 
+| stats sum(TODAY_EXAMINATION)  as SUM
+
+# common_data 9
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE 
+| where ADMINISTRATION_ZONE = '3101'
+| fields EXAMINATION_PROGRESS_RATE
+
+# common_data 10
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE
+| where ADMINISTRATION_ZONE like '3101_'
+| stats sum(EXAMINATION_COMPLETION_BUSINESS_ACCUMULATE_TOTAL)  as SUM
+
+# common_data 11
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE 
+| where ADMINISTRATION_ZONE like '3101_'
+| stats sum(TODAY_EXAMINATION) as SUM 
+| typecast SUM INTEGER
+
+
+## 수원시 구별 진행률 ##
+# common_data 12
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE 
+| where ADMINISTRATION_ZONE like '3101_'
+| fields ADMINISTRATION_ZONE_NAME, EXAMINATION_COMPLETION_BUSINESS_ACCUMULATE_TOTAL, EXAMINATION_PROGRESS_RATE
+| round 2 col = EXAMINATION_PROGRESS_RATE
+
+# common_data 13
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE 
+| where ADMINISTRATION_ZONE_NAME = '장안구'
+| fields EXAMINATION_COMPLETION_BUSINESS_ACCUMULATE_TOTAL
+
+# common_data 14
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE 
+| where ADMINISTRATION_ZONE_NAME = '장안구'
+| calculate EXAMINATION_TARGET_BUSINESS_COUNT - EXAMINATION_COMPLETION_BUSINESS_ACCUMULATE_TOTAL as CAL 
+| fields CAL
+
+# common_data 15
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE 
+| where ADMINISTRATION_ZONE_NAME = '권선구'
+| fields EXAMINATION_COMPLETION_BUSINESS_ACCUMULATE_TOTAL
+
+# common_data 17
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE 
+| where ADMINISTRATION_ZONE_NAME = '권선구'
+| calculate EXAMINATION_TARGET_BUSINESS_COUNT - EXAMINATION_COMPLETION_BUSINESS_ACCUMULATE_TOTAL as CAL 
+| fields CAL
+
+# common_data 18
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE 
+| where ADMINISTRATION_ZONE_NAME = '팔달구'
+| fields EXAMINATION_COMPLETION_BUSINESS_ACCUMULATE_TOTAL
+
+# common_data 19
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE 
+| where ADMINISTRATION_ZONE_NAME = '팔달구'
+| calculate EXAMINATION_TARGET_BUSINESS_COUNT - EXAMINATION_COMPLETION_BUSINESS_ACCUMULATE_TOTAL as CAL 
+| fields CAL
+
+# common_data 20
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE 
+| where ADMINISTRATION_ZONE_NAME = '영통구'
+| fields EXAMINATION_COMPLETION_BUSINESS_ACCUMULATE_TOTAL
+
+# common_data 21
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE 
+| where ADMINISTRATION_ZONE_NAME = '영통구'
+| calculate EXAMINATION_TARGET_BUSINESS_COUNT - EXAMINATION_COMPLETION_BUSINESS_ACCUMULATE_TOTAL as CAL 
+| fields CAL
+
+
+## 경기도 시군별 진행률 ##
+# common_data 22
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE
+| where ADMINISTRATION_ZONE like '310_' or ADMINISTRATION_ZONE like '310_0'  or ADMINISTRATION_ZONE like '311%' or ADMINISTRATION_ZONE like '312%' or ADMINISTRATION_ZONE like '313%'  
+| case when ADMINISTRATION_ZONE_NAME = '수원시' then EXAMINATION_PROGRESS_RATE  as 수원시 
+| case when ADMINISTRATION_ZONE_NAME = '수원시' then null otherwise EXAMINATION_PROGRESS_RATE as 조사진척률
+| sort - EXAMINATION_PROGRESS_RATE
+
+# common_data 23
+| sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE
+| where ADMINISTRATION_ZONE like '310_' or ADMINISTRATION_ZONE like '310_0'  or ADMINISTRATION_ZONE like '311%' or ADMINISTRATION_ZONE like '312%' or ADMINISTRATION_ZONE like '313%'  
+| sort -EXAMINATION_PROGRESS_RATE 
+| numbering 
+| where ADMINISTRATION_ZONE_NAME = '수원시' 
+| fields ID
+
+
+## 구 별 조사 현황 ##
+# common_data 24
+| join '권선구 경제총조사' DATETIME = 권선구 경제총조사.DATETIME 
+| join '팔달구 경제총조사' DATETIME = 팔달구 경제총조사.DATETIME 
+| join '영통구 경제총조사' DATETIME = 영통구 경제총조사.DATETIME 
+| fields DATETIME, TODAY as 장안구, 권선구 경제총조사_TODAY as 권선구, 팔달구 경제총조사_TODAY as 팔달구, 영통구 경제총조사_TODAY as 영통구
+| sort DATETIME
+
+
+## 동 별 진행률 지도 ##
+# 경제총조사 IMA
+sql "select *, max(REFERENCEDATE) over () as DATE from angora"
+| where REFERENCEDATE = DATE 
+| case when ADMINISTRATION_ZONE_NAME = '경기도' then '경기도' otherwise '경기도' as DO 
+| case when ADMINISTRATION_ZONE like '31011%' then '수원시 장안구' when ADMINISTRATION_ZONE like '31012%' then '수원시 권선구' when ADMINISTRATION_ZONE like '31013%' then '수원시 팔달구' when ADMINISTRATION_ZONE like '31014%' then '수원시 영통구' as GU  
+| where ADMINISTRATION_ZONE like '3101___'
+| concat EXAMINATION_PROGRESS_RATE, "%" as 조사 진행률
+| concat EXAMINATION_TARGET_BUSINESS_COUNT, " 중 ", EXAMINATION_COMPLETION_BUSINESS_ACCUMULATE_TOTAL, " 완료" as 조사 현황
