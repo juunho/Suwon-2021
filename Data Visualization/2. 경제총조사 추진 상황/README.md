@@ -12,4 +12,4 @@
 
 ### 분석 보고서
  - [URL](http://27.101.101.188:20007/studio/exported/1f4ce96d8ebb4bdf89e066e0d067c94dfeb88beb081a4a8ab2e543c6cad7f7b4)
-- 메뉴얼
+- [메뉴얼](https://github.com/juunho/Suwon-2021/blob/39b9fb14d340f2a7719e2a8a064c664f329407e7/Data%20Visualization/2.%20%EA%B2%BD%EC%A0%9C%EC%B4%9D%EC%A1%B0%EC%82%AC%20%EC%B6%94%EC%A7%84%20%EC%83%81%ED%99%A9/%EA%B2%BD%EC%A0%9C%EC%B4%9D%EC%A1%B0%EC%82%AC%20%EC%B6%94%EC%A7%84%20%EC%83%81%ED%99%A9%20%EB%A7%A4%EB%89%B4%EC%96%BC.pdf)
