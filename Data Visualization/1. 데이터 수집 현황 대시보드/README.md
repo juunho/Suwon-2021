@@ -18,7 +18,7 @@
 
 
 
-<p align="center"><img src="https://github.com/juunho/Suwon-2021/blob/d01d828d1bd7f8dfcf1d49cd125507279969949d/Data%20Visualization/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%ED%98%84%ED%99%A9%20%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C/IMAGE/img_1.png" width="700" height= "auto"></p>
+<p align="center"><img src="https://github.com/juunho/Suwon-2021/blob/616d23c75e055f054bf18b895a773719e0708aad/Data%20Visualization/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%ED%98%84%ED%99%A9%20%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C/IMAGE/Img_1.PNG"></p>
 
 ---
 
