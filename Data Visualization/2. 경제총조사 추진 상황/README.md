@@ -8,9 +8,9 @@
 
 ### Output
 - [데이터 전처리.ipynb](https://github.com/juunho/Suwon-2021/blob/768548b4c641628efceb92f5d6891a4e03ff0afb/%EA%B2%BD%EC%A0%9C%EC%B4%9D%EC%A1%B0%EC%82%AC/%EA%B2%BD%EC%A0%9C%EC%B4%9D%EC%A1%B0%EC%82%AC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)
--  [분석 쿼리](https://github.com/juunho/Suwon-2021/blob/14bae808f84f3b018af92bda577db4321d502855/Data%20Visualization/2.%20%EA%B2%BD%EC%A0%9C%EC%B4%9D%EC%A1%B0%EC%82%AC%20%EC%B6%94%EC%A7%84%20%EC%83%81%ED%99%A9/%EB%B6%84%EC%84%9D%20%EC%BF%BC%EB%A6%AC.sql)
+-  [분석 쿼리.sql](https://github.com/juunho/Suwon-2021/blob/14bae808f84f3b018af92bda577db4321d502855/Data%20Visualization/2.%20%EA%B2%BD%EC%A0%9C%EC%B4%9D%EC%A1%B0%EC%82%AC%20%EC%B6%94%EC%A7%84%20%EC%83%81%ED%99%A9/%EB%B6%84%EC%84%9D%20%EC%BF%BC%EB%A6%AC.sql)
 
-- [URL](http://27.101.101.188:20007/studio/exported/1f4ce96d8ebb4bdf89e066e0d067c94dfeb88beb081a4a8ab2e543c6cad7f7b4)
+- [보고서 URL](http://27.101.101.188:20007/studio/exported/1f4ce96d8ebb4bdf89e066e0d067c94dfeb88beb081a4a8ab2e543c6cad7f7b4)
 - [매뉴얼](https://github.com/juunho/Suwon-2021/blob/39b9fb14d340f2a7719e2a8a064c664f329407e7/Data%20Visualization/2.%20%EA%B2%BD%EC%A0%9C%EC%B4%9D%EC%A1%B0%EC%82%AC%20%EC%B6%94%EC%A7%84%20%EC%83%81%ED%99%A9/%EA%B2%BD%EC%A0%9C%EC%B4%9D%EC%A1%B0%EC%82%AC%20%EC%B6%94%EC%A7%84%20%EC%83%81%ED%99%A9%20%EB%A7%A4%EB%89%B4%EC%96%BC.pdf)
 
 
