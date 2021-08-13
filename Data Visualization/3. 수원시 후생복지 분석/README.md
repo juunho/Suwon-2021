@@ -13,3 +13,85 @@
 - [분석 쿼리.sql](https://github.com/juunho/Suwon-2021/blob/869c29c07d0a4d9ecde88a9108224a38cbf249b0/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/%EB%B6%84%EC%84%9D%20%EC%BF%BC%EB%A6%AC.sql)
 - 보고서 URL   <sub>(개인정보 포함으로 비공개)<sub/>
 - [매뉴얼]
+
+ <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_1.png">
+
+---
+
+  <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_2.png">
+
+---
+ 
+ <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_3.png">
+
+---
+ 
+  <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_4.png">
+
+---
+ 
+  <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_5.png">
+
+---
+ 
+  <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_6.png">
+
+---
+ 
+  <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_7.png">
+
+---
+ 
+  <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_8.png">
+
+---
+ 
+  <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_9.png">
+
+---
+ 
+  <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_10.png">
+
+---
+ 
+  <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_11.png">
+
+---
+ 
+  <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_12.png">
+
+---
+ 
+  <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_13.png">
+
+---
+ 
+  <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_14.png">
+
+---
+ 
+  <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_15.png">
+
+---
+ 
+  <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_16.png">
+
+---
+ 
+  <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_17.png">
+
+---
+ 
+  <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_18.png">
+
+---
+ 
+  <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_19.png">
+
+---
+ 
+  <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_20.png">
+
+---
+ 
+  <img src="https://github.com/juunho/Suwon-2021/blob/24cc6afc220dd95a7b97adca7e721bf5cd3c66e9/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D/IMAGE/IMG_21.png">
