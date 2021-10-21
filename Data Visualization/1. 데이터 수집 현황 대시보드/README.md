@@ -10,7 +10,7 @@
  - organizations
 
 ### 산출물
-- [분석 쿼리.sql](https://github.com/juunho/Suwon-2021/blob/71a1944e39476d04921f5131eef29e80a599946b/BI/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%ED%98%84%ED%99%A9%20%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C/%EB%B6%84%EC%84%9D%20%EC%BF%BC%EB%A6%AC.sql)
+- [분석 쿼리.sql](https://github.com/juunho/Suwon-2021/blob/337d16f8d92427669b4730af5e045da4709d5651/Data%20Visualization/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%ED%98%84%ED%99%A9%20%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C/%EB%B6%84%EC%84%9D%20%EC%BF%BC%EB%A6%AC.md)
 
 - [보고서 URL](http://27.101.101.188:20007/studio/exported/01ad281db38f4a4ea4043c6af235f0020fcac5bfeaf74c14ae2df288ae867d61)
 
