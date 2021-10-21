@@ -21,6 +21,6 @@
 | 코로나 발생 현황              | 수원시 내 코로나 발생 데이터             | 정형 데이터   | 내부 (DB)             |
 
 ### 산출물
-- 분석 쿼리.sql
+- [분석 쿼리.sql](https://github.com/juunho/Suwon-2021/blob/059223c2afb80d00126cb5c73a5eb257d6860a82/Data%20Analytics/1.%20%EC%BD%94%EB%A1%9C%EB%82%98%20%EC%98%88%EB%B0%A9%EC%A0%91%EC%A2%85%20%ED%98%84%ED%99%A9%20%EB%B6%84%EC%84%9D/%EB%B6%84%EC%84%9D%EC%BF%BC%EB%A6%AC.md)
 - [보고서 URL](http://27.101.101.188:20007/studio/exported/a1b30e4148e7468b81c429fbf55d1ae7e6353949266f411cbc13bcf8068bbc3e)
 - 분석 보고서
