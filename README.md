@@ -19,13 +19,11 @@ Status: Active
 * Descriptive Statistics
 * Machine Learning
 * Predictive Modeling
-* Data Visualization/Reporting
-* Data Dashboard </br></br>
+* Data Visualization/Dashboard </br></br>
 
 ### Technologies
 * Python
 * R
 * IRIS BigdataPlatform, IRIS DSL
 * PostgreSql, SparkSql
-* Jupyter Notebook
-* Colab 
+* Jupyter Notebook, Colab 
