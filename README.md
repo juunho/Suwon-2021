@@ -25,5 +25,5 @@ Status: Active
 * Python
 * R
 * IRIS BigdataPlatform, IRIS DSL
-* PostgreSql, SparkSql
+* PostgreSQL, Spark SQL
 * Jupyter Notebook, Colab 
