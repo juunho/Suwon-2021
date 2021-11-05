@@ -12,15 +12,15 @@ Status: Active
 * 수원시 스마트도시과 빅데이터팀 </br></br>
 
 ### Table of Contents
-* [Data Analytics](link)
-  * 수원시 1 
-  * 수원시 2 </br></br>
-* [Data Visualization](https://github.com/juunho/Suwon-2021/tree/main/Data%20Visualization)
-  * 수원시 1
-  * 수원시 2
-  * 수원시 3
-  * 수원시 4 
-  * 수원시 5 </br></br>
+* Data Analytics
+  * [코로나 예방접종 현황 분석](link)
+  * [수원시 인구 예측 모형](link) </br></br>
+* Data Visualization
+  * [데이터 수집 현황 대시보드](link)
+  * [경제총조사 추진 상황](link)
+  * [수원시 후생복지 분석](link)
+  * [영통구 공원 시설물 현황 분석](link)
+  * [수원시 5](link) </br></br>
 
 ### Methods Used
 * Data Exploration
