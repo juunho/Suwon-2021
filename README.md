@@ -14,12 +14,12 @@ Status: Active
 ### Table of Contents
 * Data Analytics
   * [코로나 예방접종 현황 분석](https://github.com/juunho/Suwon-2021/tree/main/Data%20Analytics/1.%20%EC%BD%94%EB%A1%9C%EB%82%98%20%EC%98%88%EB%B0%A9%EC%A0%91%EC%A2%85%20%ED%98%84%ED%99%A9%20%EB%B6%84%EC%84%9D)
-  * [수원시 인구 예측 모형](link) </br></br>
+  * [수원시 인구 예측 모형](https://github.com/juunho/Suwon-2021/tree/main/Data%20Analytics/2.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%9D%B8%EA%B5%AC%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%ED%98%95) </br></br>
 * Data Visualization
-  * [데이터 수집 현황 대시보드](link)
-  * [경제총조사 추진 상황](link)
-  * [수원시 후생복지 분석](link)
-  * [영통구 공원 시설물 현황 분석](link)
+  * [데이터 수집 현황 대시보드](https://github.com/juunho/Suwon-2021/tree/main/Data%20Visualization/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%ED%98%84%ED%99%A9%20%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C)
+  * [경제총조사 추진 상황](https://github.com/juunho/Suwon-2021/tree/main/Data%20Visualization/2.%20%EA%B2%BD%EC%A0%9C%EC%B4%9D%EC%A1%B0%EC%82%AC%20%EC%B6%94%EC%A7%84%20%EC%83%81%ED%99%A9)
+  * [수원시 후생복지 분석](https://github.com/juunho/Suwon-2021/tree/main/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D)
+  * [영통구 공원 시설물 현황 분석](https://github.com/juunho/Suwon-2021/tree/main/Data%20Visualization/3.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%ED%9B%84%EC%83%9D%EB%B3%B5%EC%A7%80%20%EB%B6%84%EC%84%9D)
   * [수원시 5](link) </br></br>
 
 ### Methods Used
