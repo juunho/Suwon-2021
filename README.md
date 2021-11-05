@@ -6,15 +6,21 @@ Status: Active
 ~~~
 
 ### Project Description
-* ++ </br></br>
+* Data Management / Data Analytics / Data Visualization </br></br>
 ### Partner
 * Mobigen DX Dev. Team1
 * 수원시 스마트도시과 빅데이터팀 </br></br>
 
 ### Table of Contents
-* Data Management
 * [Data Analytics](link)
-* [Data Visualization](https://github.com/juunho/Suwon-2021/tree/main/Data%20Visualization) </br></br>
+  * 수원시 1 
+  * 수원시 2 </br></br>
+* [Data Visualization](https://github.com/juunho/Suwon-2021/tree/main/Data%20Visualization)
+  * 수원시 1
+  * 수원시 2
+  * 수원시 3
+  * 수원시 4 
+  * 수원시 5 </br></br>
 
 ### Methods Used
 * Data Exploration
