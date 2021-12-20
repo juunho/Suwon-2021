@@ -2,6 +2,7 @@
 ### 요약
 - 일시 : 2021.04.13 ~ 2021.05.07
 - 담당자 : 박윤아 책임, 배준호 책임
+</br>
 
 ### 활용 데이터
 | 데이터 셋             | 설명 | 형태 | 데이터 출처      |
@@ -10,6 +11,7 @@
 | data_service_addition | 설명 추가 | 정형 데이터 | 내부 (DB) |
 | resource              | 설명 추가 | 정형 데이터 | 내부 (DB) |
 | organizations         | 설명 추가 | 정형 데이터 | 내부 (DB) |
+</br>
 
 ### 산출물
 - [분석 쿼리.sql](https://github.com/juunho/Suwon-2021/blob/337d16f8d92427669b4730af5e045da4709d5651/Data%20Visualization/1.%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%88%98%EC%A7%91%20%ED%98%84%ED%99%A9%20%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C/%EB%B6%84%EC%84%9D%20%EC%BF%BC%EB%A6%AC.md)
