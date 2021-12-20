@@ -44,26 +44,30 @@
 </br>
 
 ### 분석 스크립트
-> 수원시 출생아 수 예측
-- [수원시 출생아 예측.ipynb](https://github.com/juunho/Suwon-2021/blob/21625d08487ab6e6978463ada677fccefa5666df/Data%20Analytics/2.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%9D%B8%EA%B5%AC%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%ED%98%95/%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%B6%9C%EC%83%9D%EC%95%84%20%EC%98%88%EC%B8%A1.ipynb)
-- [구 별 출생아 예측.ipynb](https://github.com/juunho/Suwon-2021/blob/21625d08487ab6e6978463ada677fccefa5666df/Data%20Analytics/2.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%9D%B8%EA%B5%AC%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%ED%98%95/%EA%B5%AC%20%EB%B3%84%20%EC%B6%9C%EC%83%9D%EC%95%84%20%EC%98%88%EC%B8%A1.ipynb)
+- 수원시 출생아 수 예측
+
+	- [수원시 출생아 예측.ipynb](https://github.com/juunho/Suwon-2021/blob/21625d08487ab6e6978463ada677fccefa5666df/Data%20Analytics/2.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%9D%B8%EA%B5%AC%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%ED%98%95/%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%B6%9C%EC%83%9D%EC%95%84%20%EC%98%88%EC%B8%A1.ipynb)
+	- [구 별 출생아 예측.ipynb](https://github.com/juunho/Suwon-2021/blob/21625d08487ab6e6978463ada677fccefa5666df/Data%20Analytics/2.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%9D%B8%EA%B5%AC%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%ED%98%95/%EA%B5%AC%20%EB%B3%84%20%EC%B6%9C%EC%83%9D%EC%95%84%20%EC%98%88%EC%B8%A1.ipynb)
 
 </br>
 
-> 출생아 변동 요인 분석
-- [출산율 변동 요인.ipynb](https://github.com/juunho/Suwon-2021/blob/21625d08487ab6e6978463ada677fccefa5666df/Data%20Analytics/2.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%9D%B8%EA%B5%AC%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%ED%98%95/%EC%B6%9C%EC%82%B0%EC%9C%A8%20%EB%B3%80%EB%8F%99%20%EC%9A%94%EC%9D%B8.ipynb)
+- 출생아 변동 요인 분석
+
+	- [출산율 변동 요인.ipynb](https://github.com/juunho/Suwon-2021/blob/21625d08487ab6e6978463ada677fccefa5666df/Data%20Analytics/2.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%9D%B8%EA%B5%AC%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%ED%98%95/%EC%B6%9C%EC%82%B0%EC%9C%A8%20%EB%B3%80%EB%8F%99%20%EC%9A%94%EC%9D%B8.ipynb)
 
 </br>
 
-> 인구 코호트 모형
-- [pred_pop.py](https://github.com/juunho/Suwon-2021/blob/21625d08487ab6e6978463ada677fccefa5666df/Data%20Analytics/2.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%9D%B8%EA%B5%AC%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%ED%98%95/pred_pop.py)
-- [veri_pop.py](https://github.com/juunho/Suwon-2021/blob/21625d08487ab6e6978463ada677fccefa5666df/Data%20Analytics/2.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%9D%B8%EA%B5%AC%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%ED%98%95/pred_pop.py)
+- 인구 코호트 모형
+
+	- [pred_pop.py](https://github.com/juunho/Suwon-2021/blob/21625d08487ab6e6978463ada677fccefa5666df/Data%20Analytics/2.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%9D%B8%EA%B5%AC%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%ED%98%95/pred_pop.py)
+	- [veri_pop.py](https://github.com/juunho/Suwon-2021/blob/21625d08487ab6e6978463ada677fccefa5666df/Data%20Analytics/2.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%9D%B8%EA%B5%AC%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%ED%98%95/pred_pop.py)
 
 
 </br>
 
 ### 산출물
 - [수원시 인구예측 분석 보고서](https://github.com/juunho/Suwon-2021/blob/3251c27abae3db90bd666b241435e7413dbbf125/Data%20Analytics/2.%20%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%9D%B8%EA%B5%AC%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%ED%98%95/%EC%88%98%EC%9B%90%EC%8B%9C%20%EC%9D%B8%EA%B5%AC%EC%98%88%EC%B8%A1%20%EB%B6%84%EC%84%9D%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+
 - [수원시 인구 현황 URL]()
 
 	
