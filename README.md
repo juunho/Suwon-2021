@@ -35,7 +35,6 @@ Status: Active
 
 ### Technologies
 * Python
-* R
 * IRIS BigdataPlatform, IRIS DSL
 * PostgreSQL, Spark SQL
 * Jupyter Notebook, Colab 
