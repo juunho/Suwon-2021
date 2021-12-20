@@ -23,9 +23,7 @@ Status: Active
   * [코로나 상생 국민지원금 현황](https://github.com/juunho/Suwon-2021/tree/main/Data%20Visualization/5.%20%EC%BD%94%EB%A1%9C%EB%82%98%20%EC%83%81%EC%83%9D%20%EA%B5%AD%EB%AF%BC%EC%A7%80%EC%9B%90%EA%B8%88%20%ED%98%84%ED%99%A9) </br></br>
 
 * Presentation
-  * 수원시 빅데이터 플랫폼 실습 교육
-
-</br>
+  * 수원시 빅데이터 플랫폼 실습 교육  </br></br>
 
 ### Methods Used
 * Data Exploration
