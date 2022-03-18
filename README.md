@@ -2,11 +2,9 @@
 ~~~
 Project : 수원시 빅데이터 플랫폼 유지관리 및 데이터 분석
 Date : 2021-02-01 ~ 2021-12-31
-Status: Active
+Description : Data Management, Data Analytics, Data Visualization 
 ~~~
 
-### Project Description
-* Data Management / Data Analytics / Data Visualization </br></br>
 ### Partner
 * Mobigen DX Dev. Team1
 * 수원시 스마트도시과 빅데이터팀 </br></br>
