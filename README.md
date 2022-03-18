@@ -1,9 +1,4 @@
-## Suwon-si Data Analysis
-~~~
-Project : 수원시 빅데이터 플랫폼 유지관리 및 데이터 분석
-Date : 2021-02 ~ 2021-12
-Description : Data Management, Data Analytics, Data Visualization 
-~~~
+## 수원시 빅데이터 플랫폼 유지관리 및 데이터 분석
 
 ### Partner
 * Mobigen DX Dev. Team1
